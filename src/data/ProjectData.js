@@ -36,8 +36,8 @@ export const ProjectList = [
     description:
       "Developed a dynamic book recommender system using Python and Flask, providing personalized reading suggestions through a user-friendly web interface.",
     tech_stack: "Python, Flask",
-    github_url: "https://github.com/alex4840/location-Tracker",
-    demo_url: "https://location-tracker-pzqe.onrender.com/",
+    github_url: "https://github.com/alex4840/book-recommendation",
+    demo_url: "https://book-recommendation-ynj3.onrender.com/",
     demo: true,
   },
 ];
